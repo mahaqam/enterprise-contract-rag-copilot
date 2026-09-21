@@ -1,0 +1,42 @@
+query_category,first_relevant_rank,top1_category,top1_score
+Document Name,20,Effective Date,0.4693044386912092
+Parties,1,Parties,1.0
+Agreement Date,4,Effective Date,0.5029179438840413
+Effective Date,1,Effective Date,0.8932683369782872
+Expiration Date,1,Expiration Date,0.46166451854204815
+Renewal Term,1,Renewal Term,0.4153842473487216
+Notice Period To Terminate Renewal,2,Termination For Convenience,0.26912951931731827
+Governing Law,1,Governing Law,0.4684681791634192
+Most Favored Nation,3,Audit Rights,0.21477261867592973
+Competitive Restriction Exception,1,Competitive Restriction Exception,0.18409960025404312
+Non-Compete,2,Competitive Restriction Exception,0.6391732412931198
+Exclusivity,1,Exclusivity,0.4468243151525917
+No-Solicit Of Customers,1,No-Solicit Of Customers,0.4227662083732993
+No-Solicit Of Employees,1,No-Solicit Of Employees,0.4135540270191312
+Non-Disparagement,144,Document Name,0.31447352084503194
+Termination For Convenience,1,Termination For Convenience,0.9374857601155746
+Rofr/Rofo/Rofn,1,Rofr/Rofo/Rofn,0.3252661555286831
+Change Of Control,1,Change Of Control,0.5747290269565675
+Anti-Assignment,1,Anti-Assignment,0.4030976579834723
+Revenue/Profit Sharing,1,Revenue/Profit Sharing,0.275103727897539
+Price Restrictions,1,Price Restrictions,0.2619219272605211
+Minimum Commitment,1,Minimum Commitment,0.3473257385001505
+Volume Restriction,15,Minimum Commitment,0.2727941866143834
+Ip Ownership Assignment,3,Anti-Assignment,0.2630629866916122
+Joint Ip Ownership,1,Joint Ip Ownership,0.35140657533473574
+License Grant,6,Anti-Assignment,0.2711795688104655
+Non-Transferable License,1,Non-Transferable License,0.6031299364531546
+Affiliate License-Licensor,172,Parties,0.47395106226768613
+Affiliate License-Licensee,55,Parties,0.6124299732538317
+Unlimited/All-You-Can-Eat-License,3,Expiration Date,0.3267471452877323
+Irrevocable Or Perpetual License,1,Irrevocable Or Perpetual License,0.30258531780308384
+Source Code Escrow,1,Source Code Escrow,0.5725796219185999
+Post-Termination Services,2,Parties,0.3122834777272577
+Audit Rights,2,Post-Termination Services,0.3999611461023878
+Uncapped Liability,16,Cap On Liability,0.33910662596186536
+Cap On Liability,1,Cap On Liability,0.359755839808402
+Liquidated Damages,1,Liquidated Damages,0.6195368374424419
+Warranty Duration,1,Warranty Duration,0.346121288221629
+Insurance,1,Insurance,0.4447239908975567
+Covenant Not To Sue,5,Competitive Restriction Exception,0.281377516491697
+Third Party Beneficiary,1,Third Party Beneficiary,0.5965060635963962

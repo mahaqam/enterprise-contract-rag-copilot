@@ -1,0 +1,12 @@
+{
+  "mrr": 0.7030920377914138,
+  "hit@1": 0.6097560975609756,
+  "hit@3": 0.7804878048780488,
+  "hit@5": 0.8292682926829268,
+  "hit@10": 0.8536585365853658,
+  "contracts": 510,
+  "clause_categories": 41,
+  "clause_snippets": 13101,
+  "duplicate_clause_snippets": 1955,
+  "method": "0.7 word TF-IDF + 0.3 character TF-IDF cosine similarity"
+}

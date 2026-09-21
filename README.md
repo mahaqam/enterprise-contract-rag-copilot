@@ -1,5 +1,7 @@
 # Enterprise Contract RAG Copilot
 
+[Live Demo](https://enterprise-contract-rag-copilot.streamlit.app/)
+
 Grounded contract-clause retrieval prototype built from the CUAD-style `master_clauses.csv` dataset.
 
 ## Dataset
